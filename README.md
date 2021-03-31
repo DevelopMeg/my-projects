@@ -1,4 +1,4 @@
-# List of my important project
+# List of my important projects
 
 ![flowers image](./image.png)
 
