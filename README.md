@@ -4,7 +4,7 @@
 
 ## ready-for-weather
 
-> This is my the newest and the best project, which contain all aspects I learned from feedback, which received after complete the recruitment task.
+>  This is my old project, but shows progress of my skills
 
 #### This is an application, which let check weather
 
@@ -17,7 +17,7 @@ Repo: https://github.com/DevelopMeg/ready-for-weather
 
 ## pizza-masters
 
-> This is my old project (which doesn`t contain aspects I learned from feedback), but shows progress of my skills
+> This is my old project, but shows progress of my skills
 
 #### This is a pizzeria page, where you can order pizza
 
@@ -30,7 +30,7 @@ Repo: https://github.com/DevelopMeg/pizza-masters
 
 ## meal-planner
 
-> This is my old project (which doesn`t contain aspects I learned from feedback), but shows progress of my skills
+> This is my old project, but shows progress of my skills
 
 #### This is an application, which let you plan meals for the whole week and add them to list of dishes
 
@@ -43,7 +43,7 @@ Repo: https://github.com/DevelopMeg/meal-planner
 
 ## personal-notebook
 
-> This is my old project (which doesn`t contain aspects I learned from feedback), but shows progress of my skills
+> This is my old project, but shows progress of my skills
 
 #### This is an application, which let you save your notes
 
@@ -56,7 +56,7 @@ Repo: https://github.com/DevelopMeg/personal-notebook
 
 ## time-for-training
 
-> This is my old project (which doesn`t contain aspects I learned from feedback), but shows progress of my skills
+> This is my old project, but shows progress of my skills
 
 #### This is page of training company
 
